@@ -3,7 +3,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class ubstest1 {
+public class Ubstest1 {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
